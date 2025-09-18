@@ -18,9 +18,8 @@ The project applies a **Decision Tree Classifier** to the **Bank Marketing datas
 ---
 
 ## 📂 Outputs
-- `feature_importance.png` → Bar chart of feature importance  
-- `decision_tree_readable.png` → Clean, user-friendly decision tree  
-- `decision_tree_rules.txt` → Extracted tree rules in text format  
+- `feature_importance_bargraph.png` → Bar chart of feature importance  
+- `decision_tree_image.png` → Clean, user-friendly decision tree    
 - `bank_dt_model.joblib` → Saved trained model  
 
 ---
