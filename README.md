@@ -34,7 +34,7 @@ The project applies a **Decision Tree Classifier** to the **Bank Marketing datas
    pip install -r requirements.txt
    (requirements: pandas, scikit-learn, matplotlib, seaborn, graphviz, joblib)
 3.Run the script:
-  python task3_decision_tree.py
+  python decision_tree.py
 
 📊 Sample Results
 
